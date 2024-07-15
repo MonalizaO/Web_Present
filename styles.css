@@ -154,7 +154,7 @@ h2 {
     color: aqua;
     font-size: 40px;
     font-family: 'Chicago', sans-serif;
-    text-shadow: 5px 4px 5px rgba(0, 0, 0, 0.944);
+    text-shadow: 2px 2px #FFFFFF;
 }
 
 .video-grid {
@@ -179,7 +179,8 @@ h2 {
 .video-card p {
     margin-top: 10px;
     font-size: 18px;
-    color: aqua;
+    color: black;
+    text-shadow: 2px 2px #FFFFFF;
 }
 
 
