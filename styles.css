@@ -23,7 +23,7 @@ h1{
     color: aqua;
     font-size: 60px;
     font-family: 'Chicago', sans-serif;
-    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.885);
+    text-shadow: 3px 3px 3px rgba(242, 242, 242, 0.885);
 
 }
 
@@ -31,6 +31,7 @@ h1{
 #tr1{
     color: white;
     width: 25px;
+
 }
 /* Content */
 .content{
@@ -74,9 +75,6 @@ h1{
     overflow: hidden;
     background-color: black;
 
-}
-#header ul a{
-    font-size: 25px;
 }
 
 ul :hover{
@@ -153,7 +151,7 @@ h2 {
     color: aqua;
     font-size: 40px;
     font-family: 'Chicago', sans-serif;
-    text-shadow: 2px 2px #FFFFFF;
+    text-shadow: 3px 3px 3px rgba(255, 255, 255, 0.944);
 }
 
 .video-grid {
@@ -179,7 +177,6 @@ h2 {
     margin-top: 10px;
     font-size: 18px;
     color: black;
-   
 }
 
 
